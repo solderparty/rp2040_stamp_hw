@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "MCU_RaspberryPi")(type "KiCad")(uri "${KIPRJMOD}/library/MCU_RaspberryPi.kicad_sym")(options "")(descr ""))
+  (lib (name "power_extra")(type "Legacy")(uri "${KIPRJMOD}/library/power_extra.lib")(options "")(descr ""))
+  (lib (name "LED_Extra")(type "KiCad")(uri "${KIPRJMOD}/library/LED_Extra.kicad_sym")(options "")(descr ""))
+  (lib (name "Memory_Flash_Extra")(type "Legacy")(uri "${KIPRJMOD}/library/Memory_Flash_Extra.lib")(options "")(descr ""))
+  (lib (name "Battery_Management_Extra")(type "KiCad")(uri "${KIPRJMOD}/library/Battery_Management_Extra.kicad_sym")(options "")(descr ""))
+)

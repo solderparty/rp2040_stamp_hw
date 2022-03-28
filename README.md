@@ -38,3 +38,6 @@ The CircuitPython firmware for the Stamp comes with a built-in board file for th
 # Links
 
 For more information visit https://rp2040-stamp.solder.party/
+You can buy the Stamp and the Carrier boards from our Lectronz and Tindie stores:
+https://lectronz.solder.party/
+https://tindie.solder.party/
